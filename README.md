@@ -57,11 +57,24 @@ Created measures to derive key insights such as:
 ### Page 1: Market Overview
 ![Dashboard Page 1](/images/project1_page1.png)
 
+This page provides a high-level snapshot of the data job market using key KPIs such as overall job count and salary indicators.  
+It helps users quickly understand market demand and major trends at a glance.
+
+---
+
 ### Page 2: Salary / Role Deep Dive
 ![Dashboard Page 2](/images/project1_page2.png)
 
+This page focuses on a deeper analysis of salary distribution across job titles.  
+It allows users to explore how compensation varies by role and supports comparisons using interactive visuals and filtering.
+
+---
+
 ### Dashboard 2.0: Executive Summary
 ![Dashboard 2.0](/images/project2_dashboard2_0.png)
+
+This is the executive summary version of the dashboard designed for quick insights.  
+It highlights top skills in data, top paying jobs, and salary KPIs in a single-page layout with slicers for job title and country.
 
 ---
 
